@@ -11,7 +11,7 @@ import { themes as prismThemes } from "prism-react-renderer";
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: "Dom's blog",
-  tagline: "Dinosaurs are cool",
+  tagline: "Writing is for nerds",
   favicon: "img/favicon.ico",
 
   // Future flags, see https://docusaurus.io/docs/api/docusaurus-config#future
@@ -98,7 +98,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} · Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} · Built with Docusaurus`,
       },
       prism: {
         theme: prismThemes.github,
