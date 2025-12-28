@@ -2,10 +2,12 @@
 
 Personal blog built using [Docusaurus](https://docusaurus.io/).
 
+View it at [domzor.github.io/blog](https://domzor.github.io/blog/)
+
 ## Installation
 
 ```bash
-npm i
+npm install
 ```
 
 ## Local Development
