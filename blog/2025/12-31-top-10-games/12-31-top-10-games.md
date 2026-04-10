@@ -7,7 +7,7 @@ tags: [games]
 
 You won't BELIEVE what's #1 (it's Monster Hunter, duh)
 
-<!-- truncate -->
+{/* truncate */}
 
 I've been making a list of my top 10 games every year since 2019, but I haven't ever written up my thoughts on them. It's mostly for my own benefit since I have the memory of a goldfish, though I usually wound up posting on Twitter towards the end of December.
 

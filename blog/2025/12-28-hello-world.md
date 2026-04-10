@@ -7,7 +7,7 @@ tags: [yapping]
 
 Hi! Welcome to my blog!
 
-<!-- truncate -->
+{/* truncate */}
 
 Not sure why I decided to start this whole blog thing with an exclamation mark in the title and another two in the summary of the first post, but it's there now and I couldn't think of anything better in the 2 minutes it took me to write this follow-up sentence so it's staying.
 
